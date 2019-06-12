@@ -1,0 +1,5 @@
+menuconfig LIBFXDIV
+    bool "fxdiv - library for division via fixed-point multiplication by inverse"
+    select LIBCXX
+    default n
+

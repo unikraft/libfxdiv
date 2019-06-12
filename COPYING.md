@@ -10,9 +10,9 @@ copyright owner and under which terms and conditions the code is
 licensed. If such a licence note is missing, the following copyright
 notice will apply:
 
+	Copyright (c) 2019, University Politehnica of Bucharest. All rights 
+	reserved.
 
-	Copyright(C) Year Name, Institution
-	
 	This library is free software; you can redistribute it and/or
 	modify it under the terms of the GNU Lesser General Public
 	License as published by the Free Software Foundation; either
