@@ -1,0 +1,6 @@
+name        := "libfxdiv"
+description := "A library for division via fixed-point multiplication by inverse."
+gitrepo     := "https://github.com/Maratyszcza/FXdiv.git"
+homepage    := "https://github.com/Maratyszcza/FXdiv/"
+version     := f8c5354 sha256:7d3215bea832fe77091ec5666200b91156df6724da1e348205078346325fc45e https://github.com/Maratyszcza/FXdiv/archive/f8c5354.tar.gz
+license     := "MIT"
