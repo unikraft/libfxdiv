@@ -38,7 +38,7 @@ $(eval $(call addlib_s,libfxdiv,$(CONFIG_LIBFXDIV)))
 # Sources
 ################################################################################
 LIBFXDIV_VERSION=f8c5354679ec2597792bc70a9e06eff50c508b9a
-LIBFXDIV_URL=https://github.com/Maratyszcza/FXdiv/archive/f8c5354.zip
+LIBFXDIV_URL=https://github.com/Maratyszcza/FXdiv/archive/refs/heads/master.zip
 LIBFXDIV_PATCHDIR=$(LIBFXDIV_BASE)/patches
 $(eval $(call fetch,libfxdiv,$(LIBFXDIV_URL)))
 
